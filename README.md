@@ -31,92 +31,95 @@ A base da minha atuação está na combinação entre entendimento do negócio e
 
 ## Projetos em Destaque
 
-### ERP para Cliente do Setor Solar
+### ERP de Gestão para o Setor Solar
 
-**Objetivo**
+`Cliente do Setor Solar`
 
-Sistema empresarial criado para centralizar e automatizar processos comerciais, administrativos e operacionais de uma empresa do setor solar.
+ERP criado para centralizar processos comerciais, administrativos e operacionais, conectando áreas e informações em uma única base de gestão.
 
-**Problema resolvido**
+> **Desafio:** organizar vendas, clientes, projetos, documentos e execução antes distribuídos entre processos fragmentados.
+>
+> **Solução:** integrar o ciclo comercial e operacional em um fluxo contínuo, com automação de processos internos, segurança e gestão dos dados.
 
-A operação exigia a integração de diferentes frentes — vendas, clientes, projetos, documentação e acompanhamento de execução — em um fluxo mais organizado e menos dependente de ações manuais e processos fragmentados.
+**Fluxo principal**
 
-**Solução**
+**Lead → CRM → Venda → Projeto → Gestão**
 
-Foi estruturado um ambiente para conectar o ciclo comercial e operacional em uma única base de gestão, substituindo o uso de processos dispersos por um fluxo integrado de lead, CRM, oportunidades, venda, projeto e execução.
+**Principais recursos**
 
-**Principais funcionalidades**
-
-- gestão de leads e oportunidades;
-- CRM e relacionamento com clientes;
-- acompanhamento de vendas, projetos e responsáveis;
-- controle de produtos, equipamentos e documentos;
-- gestão financeira e histórico de operações;
-- autenticação e controle de acesso;
-- integração entre áreas e automação de processos internos.
-
-**Tecnologias**
-
-Stack de desenvolvimento web, backend e persistência orientada a integração, segurança e gestão operacional de dados.
-
----
-
-### Plataforma para Cliente do Setor Logístico
-
-**Objetivo**
-
-Plataforma desenvolvida para digitalizar e automatizar processos operacionais logísticos, reduzindo atividades manuais e centralizando informações essenciais para a operação.
-
-**Problema resolvido**
-
-A operação logística precisava de maior visibilidade, rastreabilidade e padronização dos processos, com informações espalhadas entre canais e etapas manuais que dificultavam o acompanhamento e a tomada de decisão.
-
-**Solução**
-
-A solução foi criada para automatizar rotinas, centralizar dados e dar suporte ao controle operacional em tempo real, conectando a gestão da execução com o uso de informação e padronização de processos.
-
-**Principais funcionalidades**
-
-- digitalização de processos operacionais;
-- centralização de informações da operação;
-- automação de fluxos e roteiros de trabalho;
-- acompanhamento de etapas e status;
-- melhoria de visibilidade sobre atividades críticas;
-- apoio à tomada de decisão baseada em dados da operação.
-
-**Tecnologias**
-
-Arquitetura orientada a dados, automação e integração entre operação e tecnologia, com foco em digitalização de processos logísticos.
+<p>
+  <img src="https://img.shields.io/badge/Leads-111111?style=flat-square&amp;logoColor=white" alt="Leads" />
+  <img src="https://img.shields.io/badge/Oportunidades-111111?style=flat-square&amp;logoColor=white" alt="Oportunidades" />
+  <img src="https://img.shields.io/badge/CRM-111111?style=flat-square&amp;logoColor=white" alt="CRM" />
+  <img src="https://img.shields.io/badge/Vendas-111111?style=flat-square&amp;logoColor=white" alt="Vendas" />
+  <img src="https://img.shields.io/badge/Clientes-111111?style=flat-square&amp;logoColor=white" alt="Clientes" />
+  <img src="https://img.shields.io/badge/Projetos-111111?style=flat-square&amp;logoColor=white" alt="Projetos" />
+  <img src="https://img.shields.io/badge/Respons%C3%A1veis-111111?style=flat-square&amp;logoColor=white" alt="Responsáveis" />
+  <img src="https://img.shields.io/badge/Produtos_e_Equipamentos-111111?style=flat-square&amp;logoColor=white" alt="Produtos e equipamentos" />
+  <img src="https://img.shields.io/badge/Documentos-111111?style=flat-square&amp;logoColor=white" alt="Documentos" />
+  <img src="https://img.shields.io/badge/Financeiro-111111?style=flat-square&amp;logoColor=white" alt="Financeiro" />
+  <img src="https://img.shields.io/badge/Autentica%C3%A7%C3%A3o-111111?style=flat-square&amp;logoColor=white" alt="Autenticação" />
+  <img src="https://img.shields.io/badge/Controle_de_Acesso-111111?style=flat-square&amp;logoColor=white" alt="Controle de acesso" />
+</p>
 
 ---
 
-### Gateway de Pagamentos / Cliente do Setor Financeiro
+### Plataforma de Automação Logística
 
-**Objetivo**
+`Cliente do Setor Logístico`
 
-Plataforma de pagamentos desenvolvida para estruturar o fluxo de transações com foco em segurança, validação, confiabilidade e experiência do usuário.
+Plataforma criada para digitalizar e automatizar processos operacionais, centralizando informações essenciais e ampliando a visibilidade da operação.
 
-**Problema resolvido**
+> **Desafio:** padronizar processos e tornar rastreáveis informações dispersas entre canais, etapas e atividades manuais.
+>
+> **Solução:** conectar execução, dados e monitoramento em fluxos automatizados, apoiando o acompanhamento e a tomada de decisão.
 
-O fluxo de pagamento exigia organização clara entre regras de negócio, autenticação, validação, tratamento de erros e integração entre serviços, de forma a reduzir pontos de falha e melhorar a operação do sistema.
+**Fluxo operacional**
 
-**Solução**
+**Operação → Dados → Monitoramento → Decisão**
 
-Foi concebida uma solução com separação clara entre frontend, backend, regras de negócio e serviços conectados, promovendo maior controle, observabilidade e consistência no processamento das transações.
+**Principais recursos**
 
-**Principais funcionalidades**
+<p>
+  <img src="https://img.shields.io/badge/Digitaliza%C3%A7%C3%A3o-111111?style=flat-square&amp;logoColor=white" alt="Digitalização de processos" />
+  <img src="https://img.shields.io/badge/Dados_Centralizados-111111?style=flat-square&amp;logoColor=white" alt="Dados centralizados" />
+  <img src="https://img.shields.io/badge/Fluxos_Automatizados-111111?style=flat-square&amp;logoColor=white" alt="Fluxos automatizados" />
+  <img src="https://img.shields.io/badge/Status-111111?style=flat-square&amp;logoColor=white" alt="Acompanhamento de status" />
+  <img src="https://img.shields.io/badge/Rastreabilidade-111111?style=flat-square&amp;logoColor=white" alt="Rastreabilidade" />
+  <img src="https://img.shields.io/badge/Apoio_%C3%A0_Decis%C3%A3o-111111?style=flat-square&amp;logoColor=white" alt="Apoio à decisão" />
+</p>
 
-- autenticação e controle de acesso;
-- processamento de transações;
-- validações e regras de negócio;
-- tratamento de erros e logs;
-- observabilidade e organização da arquitetura;
-- integração entre serviços e banco de dados;
-- foco em segurança e experiência do usuário.
+---
 
-**Tecnologias**
+### Gateway de Pagamentos
 
-Arquitetura de frontend e backend com APIs, persistência, integração de serviços e foco em segurança, confiabilidade e operação observável.
+`Cliente do Setor Financeiro`
+
+Plataforma estruturada para organizar o fluxo de transações, regras de negócio, autenticação, validações e integração entre serviços.
+
+> **Desafio:** separar responsabilidades e reduzir pontos de falha em um fluxo que reúne acesso, validação, erros e serviços conectados.
+>
+> **Solução:** organizar frontend, API, regras de negócio, serviços e persistência em uma arquitetura observável, consistente e orientada à segurança.
+
+**Fluxo da arquitetura**
+
+**Frontend → API → Regras de Negócio → Serviços → Persistência**
+
+**Principais recursos**
+
+<p>
+  <img src="https://img.shields.io/badge/Autentica%C3%A7%C3%A3o-111111?style=flat-square&amp;logoColor=white" alt="Autenticação" />
+  <img src="https://img.shields.io/badge/Controle_de_Acesso-111111?style=flat-square&amp;logoColor=white" alt="Controle de acesso" />
+  <img src="https://img.shields.io/badge/Transa%C3%A7%C3%B5es-111111?style=flat-square&amp;logoColor=white" alt="Transações" />
+  <img src="https://img.shields.io/badge/Valida%C3%A7%C3%B5es-111111?style=flat-square&amp;logoColor=white" alt="Validações" />
+  <img src="https://img.shields.io/badge/Regras_de_Neg%C3%B3cio-111111?style=flat-square&amp;logoColor=white" alt="Regras de negócio" />
+  <img src="https://img.shields.io/badge/Tratamento_de_Erros-111111?style=flat-square&amp;logoColor=white" alt="Tratamento de erros" />
+  <img src="https://img.shields.io/badge/Logs-111111?style=flat-square&amp;logoColor=white" alt="Logs" />
+  <img src="https://img.shields.io/badge/Observabilidade-111111?style=flat-square&amp;logoColor=white" alt="Observabilidade" />
+  <img src="https://img.shields.io/badge/Integra%C3%A7%C3%A3o_de_Servi%C3%A7os-111111?style=flat-square&amp;logoColor=white" alt="Integração de serviços" />
+  <img src="https://img.shields.io/badge/Banco_de_Dados-111111?style=flat-square&amp;logoColor=white" alt="Banco de dados" />
+  <img src="https://img.shields.io/badge/Seguran%C3%A7a-111111?style=flat-square&amp;logoColor=white" alt="Segurança" />
+</p>
 
 ---
 
