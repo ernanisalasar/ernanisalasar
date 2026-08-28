@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1200&amp;color=FFFFFF&amp;background=000000&amp;center=true&amp;vCenter=true&amp;lines=ERNANI+SALASAR;Log%C3%ADstica+%E2%80%A2+Dados+%E2%80%A2+Desenvolvimento+%E2%80%A2+IA;Transformando+opera%C3%A7%C3%A3o+em+dados..." alt="Animação de texto: Ernani Salasar — Logística, Dados, Desenvolvimento e IA" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1200&amp;color=FFFFFF&amp;background=000000&amp;center=true&amp;vCenter=true&amp;lines=ERNANI+SALASAR;Log%C3%ADstica+%E2%80%A2+Dados+%E2%80%A2+Desenvolvimento+%E2%80%A2+IA;Transformando+opera%C3%A7%C3%A3o+em+dados..." alt="Animação de texto: Ernani Salasar, Logística, Dados, Desenvolvimento e IA" width="100%" />
 </div>
 
 <p align="center">
