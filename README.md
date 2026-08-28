@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1200&amp;color=FFFFFF&amp;background=000000&amp;center=true&amp;vCenter=true&amp;lines=ERNANI+SALASAR;Log%C3%ADstica+%E2%80%A2+Dados+%E2%80%A2+Desenvolvimento+%E2%80%A2+IA;Transformando+opera%C3%A7%C3%A3o+em+dados..." alt="Animação de texto: Ernani Salasar, Logística, Dados, Desenvolvimento e IA" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=3000&amp;pause=1200&amp;color=FFFFFF&amp;background=000000&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=50&amp;lines=ERNANI+SALASAR;Log%C3%ADstica+%E2%80%A2+Dados+%E2%80%A2+Software+%E2%80%A2+IA;Opera%C3%A7%C3%A3o+%E2%86%92+Dados+%E2%86%92+Automa%C3%A7%C3%A3o" alt="Animação de texto: Ernani Salasar — Logística, Dados, Software e IA" width="100%" />
 </div>
 
 <p align="center">
@@ -135,34 +135,42 @@ Arquitetura de frontend e backend com APIs, persistência, integração de servi
 
 ### Dados & BI
 
-- Power BI
-- SQL
-- Excel
-- Python
-- DBeaver
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-111111?style=for-the-badge&amp;logo=powerbi&amp;logoColor=white" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&amp;logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Excel-111111?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/DBeaver-111111?style=for-the-badge&amp;logo=dbeaver&amp;logoColor=white" alt="DBeaver" />
+</p>
 
 ### Backend & Banco de Dados
 
-- Node.js
-- PostgreSQL
-- Prisma
-- APIs REST
+<p>
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-111111?style=for-the-badge&amp;logo=prisma&amp;logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/APIs_REST-111111?style=for-the-badge&amp;logoColor=white" alt="APIs REST" />
+</p>
 
 ### Desenvolvimento Web
 
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- HTML
-- CSS
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/HTML-111111?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-111111?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS" />
+</p>
 
 ### Engenharia & Ferramentas
 
-- Git
-- GitHub
-- Docker
-- VS Code
+<p>
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code" />
+</p>
 
 ---
 
